@@ -35,7 +35,7 @@ R. A. Miranda-Quintana, V. S. J. Craig, J. Smiatek; Chem. Comms. (submitted)
 
 And this repository:
 
-DOI: (to be added after each release)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3998774.svg)](https://doi.org/10.5281/zenodo.3998774)
 
 # Further reading
 Some relevant references are:
